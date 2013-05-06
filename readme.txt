@@ -19,7 +19,7 @@ Moment.me scans these social networks : Facebook, Instagram, twitter, Google+, P
 
 1. Embedded Moment.me links thru this plugin will be visible on desktop and mobile browser
 2. No effect on page load time as this plugin doesn't add any CSS or JS in header section or anywhere
-3. served through a CDN to guarentee fast laod time of the images
+3. served through a CDN to guarentee fast load time of the images
 4. All the content on Moment.me is free - check out http://moment.me/moments/trending 
 
 [Demo](http://moment.me/embed) |
@@ -42,6 +42,7 @@ This plugin is easy to install like other plug-ins of WordPress as you need to j
 As we have developed this plugin to make your life easier that’s why we have made the process to use this plugin very simple. 
 To embed IFRAME code of Moment.me on a particular post, open the post to edit. Now you can see a Moment.me icon on the tool bar of Visual format of editor. Once you will click on that icon, that will ask you to enter a URL. Copy the URL (link) of the moments which you want to embed in post and paste the URL in quick edit box. Click on “Insert” to get the [mframe] tag with URL in the post. Done, now you can save or publish the post on your blog and you can see the moment embedded . Repeat this procedure to embed another moment on your blog post or page thru IFRAME embed code.
 
+Visit the plugin page (http://moment.me/embed) to read more about it.
 
 == Screenshots ==
 
@@ -49,15 +50,13 @@ To embed IFRAME code of Moment.me on a particular post, open the post to edit. N
 2. Quicktag button on Post/Page editor to insert the iframe for Moment.me 
 3. Shortcode that can also be used in html editor on the edit post screen to insert the moment
 4. A Moment inserted with iframe code
-5. Moment.me Trending moments http://moment.me/moments/trending , a wide selection of free content you can use to embed on your website
-
-Visit the plugin page (http://moment.me/embed) to read more about it.
+5. Moment.me Trending moments moment.me/moments/trending , a wide selection of free content you can use to embed on your website
 
 == Frequently Asked Questions ==
-=Can I creat my own moments?=
+Can I creat my own moments?
 you can create your own moments and embed them to your site, for more information contact nir@moment.me
 
-=Can I edit my own moment?=
+Can I edit my own moment?
 you can add and remove images from your moments by simply login in to moment.me and selecting the moment you want to edit.
 
 == Upgrade Notice ==
