@@ -8,7 +8,6 @@ Stable tag: 1.44
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
 == Description ==
 
 Moment.me collect all images from Social events worldwide creating a True Social Coverage with a multi-point-of-view experience.
@@ -46,11 +45,11 @@ Visit the plugin page (http://moment.me/embed) to read more about it.
 
 == Screenshots ==
 
-1. Insert moment button
-2. Quicktag button on Post/Page editor to insert the iframe for Moment.me 
-3. Shortcode that can also be used in html editor on the edit post screen to insert the moment
-4. A Moment inserted with iframe code
-5. Moment.me Trending moments moment.me/moments/trending , a wide selection of free content you can use to embed on your website
+1. Insert moment button.
+2. Quicktag button on Post/Page editor to insert the iframe for Moment.me .
+3. Shortcode that can also be used in html editor on the edit post screen to insert the moment.
+4. A Moment inserted with iframe code.
+5. Moment.me Trending moments http://moment.me/moments/trending , a wide selection of free content you can use to embed on your website.
 
 == Frequently Asked Questions ==
 Can I creat my own moments?
