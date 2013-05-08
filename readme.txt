@@ -8,6 +8,7 @@ Stable tag: 1.44
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+
 == Description ==
 
 Moment.me collect all images from Social events worldwide creating a True Social Coverage with a multi-point-of-view experience.
